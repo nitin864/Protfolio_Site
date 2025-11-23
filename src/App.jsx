@@ -4,7 +4,7 @@ const projects = [
   {
     name: "CineCue",
     desc: "A stylish, robust movie discovery app — search and explore movies with a polished UI.",
-    tech: ["JavaScript", "React", "TMDB API"],
+    tech: ["JavaScript", "React Native", "TMDB API"],
     url: "https://github.com/nitin864/CineCue",
   },
   {
