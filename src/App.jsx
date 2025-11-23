@@ -93,7 +93,7 @@ export default function PortfolioApp() {
               </h2>
 
               <p className="mt-4 text-sm sm:text-base md:text-lg text-gray-300 leading-relaxed">
-                “With over four years of hands-on experience building
+                With over four years of hands-on experience building
                 production-grade applications, I don’t just develop apps — I
                 architect real-time systems. I specialize in JavaScript, React,
                 Node.js, and Socket.IO to create fast, reliable, and scalable
@@ -101,7 +101,7 @@ export default function PortfolioApp() {
                 interactive map systems, or seamless real-time communication, I
                 build with precision and purpose. No guesswork. No shortcuts.
                 Just clean engineering, high performance, and interfaces that
-                feel effortless”
+                feel effortless
               </p>
 
               <div className="mt-5 flex flex-col sm:flex-row sm:items-center gap-3">
