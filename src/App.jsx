@@ -130,7 +130,7 @@ export default function PortfolioApp() {
                   <div className="text-xs text-gray-400">Projects</div>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold">6</div>
+                  <div className="text-2xl font-bold">7</div>
                   <div className="text-xs text-gray-400">GitHub Followers</div>
                 </div>
                 <div>
